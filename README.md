@@ -1,4 +1,4 @@
-- 🤗 Hi, I am Patrik, a third year bachelor's student
+- 🤗 Hi, I am Patrik, a third year CS student
 
 - ⚒️ I am interested in fullstack and serverside coding
 
